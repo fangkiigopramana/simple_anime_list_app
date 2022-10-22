@@ -1,0 +1,1 @@
+# simple_anime_list_app
